@@ -1,0 +1,13 @@
+table,th,td{
+border:1px solid black;
+}
+table{
+    width:80%;
+    align-items: center;
+}
+th{
+  width: 150px;  
+}
+tr{
+    align-items: center;
+}
